@@ -1,15 +1,13 @@
-# medicines-optimisation-analytics
-Medicines optimisation analytics: prescribing variation across NHS primary care in England, using SQL, Power BI and SPC.
+# Medicines optimisation analytics
+
+A worked analysis of English primary care prescribing data, produced
+the way an NHS analytics team would produce it: brief, specification,
+data quality assessment, query library, model, report, and a stated
+limitations section.
 
 ## Question
 
 [One sentence. The decision this informs, not the topic.]
-
-## How this was worked
-
-Worked end to end as a delivery would be: intake brief, analysis
-specification, data quality assessment, query library, data model,
-report, and a stated limitations section.
 
 ## Data
 
