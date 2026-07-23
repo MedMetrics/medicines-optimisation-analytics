@@ -1,0 +1,6 @@
+03-data/raw/
+*.csv
+*.xlsx
+~$*
+.DS_Store
+Thumbs.db
